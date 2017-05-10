@@ -80,10 +80,9 @@ Meta data, key word, title, RWD, content, server render, routing, url rewrite, c
 - 寫過TS嗎？TS的好處?
 - 前端Framework優缺點？
 - 寫過nodeJS嗎？
-- 非同步操作怎麼處理？如果我request A.json，用A.json來呈現部分畫面，怎麼做？
-- 如果要讀完A.json和B.json呢？
-- 如果A和B有一個操作失敗我就不呈現呢？
+- 非同步操作怎麼處理？如果我request A.json，用A.json來呈現部分畫面，怎麼做？如果要讀完A.json和B.json呢？如果A和B有一個操作失敗我就不呈現呢？
 - Defer/Promise是甚麼？Resolve Reject是甚麼？你在哪邊有用過Promise呢？
+- 
 
 #### CSS
 - 用過CSS framework嗎？
@@ -91,3 +90,6 @@ Meta data, key word, title, RWD, content, server render, routing, url rewrite, c
 - CSS簡單切版？
 - span在block裡面如何垂直置中? 
 - span若超過parent寬度會怎麼樣？強制不換行怎麼做？
+
+### Reference
+https://github.com/h5bp/Front-end-Developer-Interview-Questions
