@@ -73,7 +73,7 @@ Meta data, key word, title, RWD, content, server render, routing, url rewrite, c
 #### Javascript
 - `<script>`放header和End of body有甚麼差別？`stylesheet`呢?
 - `<script async defer>`差別？
-- 請實作:`duplicate([1,2,3,4,5]);` `//[1,2,3,4,5,1,2,3,4,5]`
+- 請實作:`duplicate([1,2,3,4,5]);` result:`[1,2,3,4,5,1,2,3,4,5]`
 - == vs ===
 - 如何從A client request B domain 資料？(Cross domain ajax)
 - Closure
